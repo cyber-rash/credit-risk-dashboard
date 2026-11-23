@@ -1,5 +1,7 @@
 # Kredit Risklərinin Təhlili
 
+![Kredit riski dashboard-unda yaş və gəlir filtrləri, əsas göstəricilər](dashboard-preview.jpg)
+
 150 000 müşahidə üzrə interaktiv kredit riski paneli. Yaş, aylıq gəlir, gecikmə tarixçəsi və təminatsız kredit limitindən istifadə üzrə filtrlər təqdim edir.
 
 [Canlı idarə paneli](https://rashidjafarov.com/projects/credit-risk/)
@@ -14,3 +16,4 @@
 python -m pip install pandas numpy plotly
 python prepare_data.py
 ```
+
